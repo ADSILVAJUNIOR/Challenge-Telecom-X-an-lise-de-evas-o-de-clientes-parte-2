@@ -62,15 +62,3 @@ KNN	0,7683	0,53	0,52	0,53
 Export to Sheets
 O Random Forest obteve a melhor acurácia, enquanto a Árvore de Decisão apresentou um melhor equilíbrio entre precisão e recall para a classe de evasão (classe 1).
 
-## 🚀 Como Executar o Projeto
-Clone este repositório:
-
-Bash
-
-git clone https://github.com/elsonandrade/challenge-3-alura.git
-Execute o notebook em seu ambiente Jupyter:
-
-Bash
-
-jupyter notebook Challenge_Telecom_X_Parte2_Elson.ipynb
-O arquivo de dados (dados_tratados.csv) já deve estar incluído no repositório.
